@@ -1,0 +1,12 @@
+/* OwnChat_Server by Amaury Brisou */
+
+install:
+
+$ make all
+
+then run the server:
+
+./server -p  <port>
+
+
+
